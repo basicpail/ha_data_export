@@ -1,0 +1,2 @@
+backup.py backs up the current database and removes the current databse (options include size, date)
+export.py exports the backup database to csv / also possible to export the current database
